@@ -1,7 +1,7 @@
 # PM-Portfolio-SauceSpoon
-Disponibile anche in Italiano!
-Trovi la versione completa dell'Impact Report in lingua italiana COME Sauce & Spoon - Impact report.pdf
+Disponibile anche in Italiano come Sauce & Spoon - Impact report.pdf
 case_study_sauce_spoon.md.pdf
+
 Project Management Case Study: Sauce &amp; Spoon Tablet Rollout.  Project Overview
 This project focuses on the strategic implementation of tabletop ordering systems for the Sauce & Spoon restaurant chain. The goal was to modernize the dining experience, reduce wait times, and increase overall revenue through digital transformation.
 
