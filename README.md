@@ -1,5 +1,5 @@
 # PM-Portfolio-SauceSpoon
-Disponibile anche in Italiano come Sauce & Spoon - Impact report.pdf
+Disponibile anche in Italiano come Sauce & Spoon e  - Impact report.pdf
 case_study_sauce_spoon.md.pdf
 
 Project Management Case Study: Sauce &amp; Spoon Tablet Rollout.  Project Overview
